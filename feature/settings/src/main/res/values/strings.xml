@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_settings_title">تنظیمات</string>
+    <string name="feature_settings_appearance">ظاهر</string>
+    <string name="feature_settings_theme">تم</string>
+    <string name="feature_settings_theme_system">سیستم</string>
+    <string name="feature_settings_theme_light">روشن</string>
+    <string name="feature_settings_theme_dark">تیره</string>
+    <string name="feature_settings_dynamic_color">رنگ‌های پویا (Material You)</string>
+    <string name="feature_settings_dynamic_color_body">رنگ برنامه از تصویر زمینهٔ گوشی گرفته می‌شود.</string>
+    <string name="feature_settings_pronunciation">تلفظ</string>
+    <string name="feature_settings_accent">لهجهٔ پیش‌فرض</string>
+    <string name="feature_settings_accent_us">آمریکایی</string>
+    <string name="feature_settings_accent_uk">بریتانیایی</string>
+    <string name="feature_settings_speech_rate">سرعت خواندن: %1$s</string>
+    <string name="feature_settings_auto_pronounce">تلفظ خودکار در مرور</string>
+    <string name="feature_settings_auto_pronounce_body">هر کارت انگلیسی هنگام نمایش خوانده می‌شود.</string>
+    <string name="feature_settings_test_voice">آزمایش صدا</string>
+    <string name="feature_settings_test_sentence">Practice makes perfect.</string>
+    <string name="feature_settings_review">مرور</string>
+    <string name="feature_settings_direction">جهت کارت‌ها</string>
+    <string name="feature_settings_direction_en_fa">انگلیسی ← فارسی</string>
+    <string name="feature_settings_direction_fa_en">فارسی ← انگلیسی</string>
+    <string name="feature_settings_direction_mixed">ترکیبی</string>
+    <string name="feature_settings_daily_goal">هدف روزانه: %1$s کارت</string>
+    <string name="feature_settings_backup">پشتیبان‌گیری</string>
+    <string name="feature_settings_export">گرفتن نسخهٔ پشتیبان</string>
+    <string name="feature_settings_export_body">همهٔ لغت‌ها، کارت‌های لایتنر، دسته‌ها و سابقهٔ مرور در یک فایل JSON ذخیره می‌شود.</string>
+    <string name="feature_settings_import">بازگردانی از فایل پشتیبان</string>
+    <string name="feature_settings_import_body">فایل پشتیبانِ روان (اندروید یا iOS) را انتخاب کنید.</string>
+    <string name="feature_settings_import_confirm_title">بازگردانی نسخهٔ پشتیبان؟</string>
+    <string name="feature_settings_import_confirm_body">اطلاعات فایل با داده‌های فعلی ادغام می‌شود؛ مواردی که در هر دو هستند با نسخهٔ فایل جایگزین می‌شوند.</string>
+    <string name="feature_settings_import_action">بازگردانی</string>
+    <string name="feature_settings_cancel">انصراف</string>
+    <string name="feature_settings_backup_working">در حال انجام…</string>
+    <string name="feature_settings_export_done">نسخهٔ پشتیبان ذخیره شد: %1$s لغت، %2$s کارت، %3$s دسته</string>
+    <string name="feature_settings_import_done">بازگردانی شد: %1$s لغت، %2$s کارت، %3$s دسته</string>
+    <string name="feature_settings_backup_failed">فایل معتبر نیست یا خوانده نشد.</string>
+    <string name="feature_settings_about">دربارهٔ روان</string>
+    <string name="feature_settings_version">نسخهٔ %1$s</string>
+    <string name="feature_settings_word_count">%1$s لغت در دیکشنری</string>
+    <string name="feature_settings_about_body">دیکشنری آفلاین انگلیسی به فارسی با تلفظ آمریکایی و بریتانیایی و مرور لایتنر.</string>
+    <string name="feature_settings_data_sources">منابع داده</string>
+    <string name="feature_settings_data_sources_body" translatable="false">Persian translations and examples: Aryanpour English–Persian Dictionary (GPL-2) · IPA: ipa-dict (MIT) · Synonyms and antonyms: Princeton WordNet 3.0 · CEFR levels: CEFR-J Vocabulary Profile, Octanove C1/C2 Profile · Frequency: FrequencyWords (OpenSubtitles 2018)</string>
+</resources>

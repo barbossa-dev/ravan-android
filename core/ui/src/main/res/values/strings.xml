@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="core_ui_word_of_the_day">لغت روز</string>
+    <string name="core_ui_speak">تلفظ</string>
+    <string name="core_ui_speak_us">تلفظ آمریکایی</string>
+    <string name="core_ui_speak_uk">تلفظ بریتانیایی</string>
+    <string name="core_ui_favorite">نشان‌شده</string>
+    <string name="core_ui_box">خانهٔ %1$s</string>
+    <string name="core_ui_mastered">یاد گرفته‌شده</string>
+    <string name="core_ui_due_now">آمادهٔ مرور</string>
+    <string name="core_ui_due_tomorrow">مرور: فردا</string>
+    <string name="core_ui_due_in_days">مرور: %1$s روز دیگر</string>
+    <string name="core_ui_user_added">لغت من</string>
+</resources>

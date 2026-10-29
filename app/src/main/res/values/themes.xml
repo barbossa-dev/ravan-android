@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Ravan" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ravan_background</item>
+    </style>
+
+    <style name="Theme.Ravan.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ravan_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Ravan</item>
+    </style>
+</resources>

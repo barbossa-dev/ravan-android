@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_review_title">مرور</string>
+    <string name="feature_review_due_count">%1$s کارت</string>
+    <string name="feature_review_due_label">آمادهٔ مرور امروز</string>
+    <string name="feature_review_start">شروع مرور</string>
+    <string name="feature_review_practice">تمرین آزاد</string>
+    <string name="feature_review_all_done">امروز همهٔ کارت‌ها را مرور کرده‌اید. اگر بخواهید می‌توانید تمرین آزاد کنید.</string>
+    <string name="feature_review_empty_title">جعبهٔ لایتنر خالی است</string>
+    <string name="feature_review_empty_body">در صفحهٔ هر لغت، «افزودن به جعبهٔ لایتنر» را بزنید تا کارت مرورش ساخته شود.</string>
+    <string name="feature_review_browse">رفتن به دیکشنری</string>
+    <string name="feature_review_streak">روز پیاپی</string>
+    <string name="feature_review_today">امروز</string>
+    <string name="feature_review_today_value">%1$s از %2$s</string>
+    <string name="feature_review_mastered">یاد گرفته‌شده</string>
+    <string name="feature_review_boxes">خانه‌های لایتنر</string>
+    <string name="feature_review_boxes_description">تعداد کارت‌ها در هر خانهٔ لایتنر</string>
+    <string name="feature_review_box_mastered">بلدم</string>
+    <string name="feature_review_week">فعالیت هفت روز اخیر</string>
+    <string name="feature_review_week_description">تعداد مرورها در هفت روز اخیر</string>
+    <string name="feature_review_accuracy">دقت: %1$s٪</string>
+    <string name="feature_review_decks">مرور بر اساس دسته</string>
+    <string name="feature_review_deck_count">%1$s لغت</string>
+    <string name="feature_review_how_title">جعبهٔ لایتنر چطور کار می‌کند؟</string>
+    <string name="feature_review_how_body">هر کارت از خانهٔ ۱ شروع می‌شود. اگر جواب را بدانید یک خانه جلو می‌رود و دیرتر دوباره می‌آید (۱، ۲، ۴، ۸ و ۱۶ روز بعد). اگر ندانید به خانهٔ ۱ برمی‌گردد. کارتی که از خانهٔ ۵ هم بگذرد «یاد گرفته‌شده» است.</string>
+
+    <string name="feature_review_close">بستن</string>
+    <string name="feature_review_progress">%1$s از %2$s</string>
+    <string name="feature_review_tap_to_flip">برای دیدن جواب، کارت را لمس کنید</string>
+    <string name="feature_review_show_answer">نمایش پاسخ</string>
+    <string name="feature_review_knew">بلد بودم</string>
+    <string name="feature_review_did_not_know">بلد نبودم</string>
+    <string name="feature_review_speak">تلفظ</string>
+    <string name="feature_review_practice_badge">تمرین آزاد · خانه‌ها تغییر نمی‌کنند</string>
+    <string name="feature_review_finished_title">آفرین!</string>
+    <string name="feature_review_finished_body">%1$s کارت از %2$s را درست جواب دادید.</string>
+    <string name="feature_review_finished_retry">این لغت‌ها را دوباره ببینید</string>
+    <string name="feature_review_finish">پایان</string>
+    <string name="feature_review_session_empty_title">کارتی برای مرور نیست</string>
+    <string name="feature_review_session_empty_body">فعلاً همهٔ کارت‌ها مرور شده‌اند. بعداً دوباره سر بزنید.</string>
+</resources>

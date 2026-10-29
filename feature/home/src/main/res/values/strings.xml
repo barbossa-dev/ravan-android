@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_home_title">روان</string>
+    <string name="feature_home_subtitle">دیکشنری انگلیسی به فارسی</string>
+    <string name="feature_home_search_hint">جستجوی لغت انگلیسی یا معنی فارسی</string>
+    <string name="feature_home_clear">پاک کردن</string>
+    <string name="feature_home_new_word">لغت جدید</string>
+    <string name="feature_home_recent">اخیراً دیده‌شده</string>
+    <string name="feature_home_due_title">%1$s کارت آمادهٔ مرور</string>
+    <string name="feature_home_due_body">چند دقیقه مرور، لغت‌ها را در حافظهٔ بلندمدت نگه می‌دارد.</string>
+    <string name="feature_home_start_review">شروع مرور</string>
+    <string name="feature_home_dictionary_size">%1$s لغت در دیکشنری شما</string>
+    <string name="feature_home_tip_title">از کجا شروع کنم؟</string>
+    <string name="feature_home_tip_body">لغتی را جستجو کنید، آن را به جعبهٔ لایتنر اضافه کنید و هر روز چند دقیقه مرور کنید.</string>
+    <string name="feature_home_not_found_title">«%1$s» پیدا نشد</string>
+    <string name="feature_home_not_found_body">می‌توانید این لغت را با معنی و مثال خودتان به دیکشنری اضافه کنید.</string>
+    <string name="feature_home_add_to_dictionary">افزودن به دیکشنری</string>
+    <string name="feature_home_results">%1$s نتیجه</string>
+    <string name="feature_home_speak">تلفظ</string>
+</resources>

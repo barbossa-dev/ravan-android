@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_word_back">بازگشت</string>
+    <string name="feature_word_favorite_add">نشان کردن</string>
+    <string name="feature_word_favorite_remove">حذف نشان</string>
+    <string name="feature_word_share">اشتراک‌گذاری</string>
+    <string name="feature_word_more">گزینه‌های بیشتر</string>
+    <string name="feature_word_edit">ویرایش</string>
+    <string name="feature_word_delete">حذف لغت</string>
+    <string name="feature_word_not_found">این لغت پیدا نشد</string>
+    <string name="feature_word_not_found_body">ممکن است حذف شده باشد.</string>
+    <string name="feature_word_user_added">لغت من</string>
+    <string name="feature_word_us">آمریکایی · US</string>
+    <string name="feature_word_uk">بریتانیایی · UK</string>
+    <string name="feature_word_speak_us">پخش تلفظ آمریکایی</string>
+    <string name="feature_word_speak_uk">پخش تلفظ بریتانیایی</string>
+    <string name="feature_word_speak_example">پخش جمله</string>
+    <string name="feature_word_meanings">معانی</string>
+    <string name="feature_word_examples">مثال‌ها</string>
+    <string name="feature_word_synonyms">مترادف‌ها</string>
+    <string name="feature_word_antonyms">متضادها</string>
+    <string name="feature_word_note">یادداشت من</string>
+    <string name="feature_word_leitner">جعبهٔ لایتنر</string>
+    <string name="feature_word_leitner_add_body">این لغت را به کارت‌های مرور اضافه کنید تا در زمان مناسب دوباره ببینید.</string>
+    <string name="feature_word_leitner_add">افزودن به جعبهٔ لایتنر</string>
+    <string name="feature_word_leitner_remove">حذف از مرور</string>
+    <string name="feature_word_leitner_stats">%1$s مرور · %2$s پاسخ درست</string>
+    <string name="feature_word_decks">دسته‌ها</string>
+    <string name="feature_word_decks_empty">در هیچ دسته‌ای نیست</string>
+    <string name="feature_word_decks_manage">مدیریت</string>
+    <string name="feature_word_decks_sheet_title">افزودن به دسته</string>
+    <string name="feature_word_new_deck_hint">نام دستهٔ جدید</string>
+    <string name="feature_word_create_deck">ساختن</string>
+    <string name="feature_word_done">تمام</string>
+    <string name="feature_word_delete_title">حذف «%1$s»؟</string>
+    <string name="feature_word_delete_body">این لغت، کارت مرور و جایگاهش در دسته‌ها حذف می‌شود.</string>
+    <string name="feature_word_cancel">انصراف</string>
+    <string name="feature_word_confirm_delete">حذف</string>
+    <string name="feature_word_share_chooser">اشتراک‌گذاری لغت</string>
+</resources>

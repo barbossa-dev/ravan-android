@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_library_title">واژه‌های من</string>
+    <string name="feature_library_tab_words">لغت‌ها</string>
+    <string name="feature_library_tab_decks">دسته‌ها</string>
+    <string name="feature_library_filter_recent">اخیراً دیده‌شده</string>
+    <string name="feature_library_filter_favorites">نشان‌شده‌ها</string>
+    <string name="feature_library_filter_mine">لغت‌های من</string>
+    <string name="feature_library_filter_review">در جعبهٔ لایتنر</string>
+    <string name="feature_library_count">%1$s لغت</string>
+    <string name="feature_library_new_word">لغت جدید</string>
+    <string name="feature_library_new_deck">دستهٔ جدید</string>
+    <string name="feature_library_empty_title">چیزی اینجا نیست</string>
+    <string name="feature_library_empty_recent">لغت‌هایی که در دیکشنری باز می‌کنید اینجا می‌آیند.</string>
+    <string name="feature_library_empty_favorites">با زدن ستاره در صفحهٔ هر لغت، آن را نشان کنید.</string>
+    <string name="feature_library_empty_mine">لغت‌هایی که خودتان اضافه می‌کنید اینجا می‌آیند.</string>
+    <string name="feature_library_empty_review">لغت‌ها را از صفحهٔ هر لغت به جعبهٔ لایتنر اضافه کنید.</string>
+    <string name="feature_library_empty_decks_title">هنوز دسته‌ای ندارید</string>
+    <string name="feature_library_empty_decks_body">لغت‌ها را دسته‌بندی کنید؛ مثلاً «آیلتس»، «سفر» یا «کار» و هر دسته را جدا مرور کنید.</string>
+    <string name="feature_library_deck_dialog_create">ساختن دسته</string>
+    <string name="feature_library_deck_dialog_edit">ویرایش دسته</string>
+    <string name="feature_library_deck_name">نام دسته</string>
+    <string name="feature_library_deck_color">رنگ</string>
+    <string name="feature_library_deck_color_item">رنگ %1$s</string>
+    <string name="feature_library_save">ذخیره</string>
+    <string name="feature_library_cancel">انصراف</string>
+    <string name="feature_library_back">بازگشت</string>
+    <string name="feature_library_rename">ویرایش دسته</string>
+    <string name="feature_library_delete_deck">حذف دسته</string>
+    <string name="feature_library_delete_deck_title">حذف دستهٔ «%1$s»؟</string>
+    <string name="feature_library_delete_deck_body">خود لغت‌ها حذف نمی‌شوند؛ فقط این دسته پاک می‌شود.</string>
+    <string name="feature_library_delete">حذف</string>
+    <string name="feature_library_review_deck">مرور این دسته</string>
+    <string name="feature_library_add_all_to_review">همه به لایتنر</string>
+    <string name="feature_library_add_words">افزودن لغت</string>
+    <string name="feature_library_remove_from_deck">حذف از دسته</string>
+    <string name="feature_library_deck_empty_title">این دسته خالی است</string>
+    <string name="feature_library_deck_empty_body">با دکمهٔ «افزودن لغت» از دیکشنری لغت انتخاب کنید.</string>
+    <string name="feature_library_picker_title">انتخاب لغت‌ها</string>
+    <string name="feature_library_picker_search">جستجو</string>
+    <string name="feature_library_picker_clear">پاک کردن</string>
+    <string name="feature_library_picker_confirm">افزودن %1$s لغت</string>
+    <string name="feature_library_added_to_review">لغت‌های این دسته به جعبهٔ لایتنر اضافه شدند</string>
+</resources>

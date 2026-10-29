@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_editor_new_title">لغت جدید</string>
+    <string name="feature_editor_edit_title">ویرایش لغت</string>
+    <string name="feature_editor_close">بستن</string>
+    <string name="feature_editor_save">ذخیره</string>
+    <string name="feature_editor_word">لغت انگلیسی *</string>
+    <string name="feature_editor_phonetic_us">تلفظ آمریکایی (IPA)</string>
+    <string name="feature_editor_phonetic_uk">تلفظ بریتانیایی (IPA)</string>
+    <string name="feature_editor_phonetic_hint">مثلاً /ˈwɔːtər/</string>
+    <string name="feature_editor_part_of_speech">نقش دستوری</string>
+    <string name="feature_editor_level">سطح (CEFR)</string>
+    <string name="feature_editor_level_unknown">نامشخص</string>
+    <string name="feature_editor_meanings">معانی</string>
+    <string name="feature_editor_meaning_translation">معنی فارسی *</string>
+    <string name="feature_editor_meaning_description">توضیح (اختیاری)</string>
+    <string name="feature_editor_add_meaning">افزودن معنی</string>
+    <string name="feature_editor_examples">جمله‌های مثال</string>
+    <string name="feature_editor_example_english">جملهٔ انگلیسی</string>
+    <string name="feature_editor_example_persian">ترجمهٔ فارسی</string>
+    <string name="feature_editor_add_example">افزودن مثال</string>
+    <string name="feature_editor_remove">حذف</string>
+    <string name="feature_editor_synonyms">مترادف‌ها (Synonyms)</string>
+    <string name="feature_editor_antonyms">متضادها (Antonyms)</string>
+    <string name="feature_editor_add_related_hint">یک لغت بنویسید و + بزنید</string>
+    <string name="feature_editor_add">افزودن</string>
+    <string name="feature_editor_note">یادداشت شخصی</string>
+    <string name="feature_editor_add_to_review">افزودن به جعبهٔ لایتنر</string>
+    <string name="feature_editor_add_to_review_body">کارت مرور این لغت همین حالا ساخته می‌شود.</string>
+    <string name="feature_editor_error_empty_word">لغت انگلیسی را وارد کنید.</string>
+    <string name="feature_editor_error_no_meaning">دست‌کم یک معنی فارسی لازم است.</string>
+    <string name="feature_editor_error_duplicate">این لغت قبلاً در دیکشنری هست.</string>
+    <string name="feature_editor_open_existing">مشاهدهٔ لغت موجود</string>
+</resources>
